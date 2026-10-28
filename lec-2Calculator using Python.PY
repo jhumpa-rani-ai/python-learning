@@ -1,0 +1,6 @@
+print(12+5)
+print(12-5)
+print(14*6)
+print(15/4)
+print(15//4)
+print(5**3)
