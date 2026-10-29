@@ -1,0 +1,12 @@
+names="mango"
+mangolen=(len(names))
+print("mango is a",mangolen,"Letter word.")
+print(mangolen)
+print(names[0:4])
+print(names[1:4])
+print(names[2:4])
+print(names[:4])
+print(names[:5])
+print(names[:5])
+print(names[-1:len(names)-3])
+print(names[-3:-1])
